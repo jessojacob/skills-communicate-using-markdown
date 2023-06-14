@@ -1,3 +1,8 @@
-# Playing around with markup
+## Playing around with markup
 Markup seems easy to use.
 ![imagge of an mongolian cat king](https://octodex.github.com/images/yaktocat.png)
+
+# A sample JS code
+```Javascript
+var j=10
+```
