@@ -6,3 +6,6 @@ Markup seems easy to use.
 ```Javascript
 var j=10
 ```
+
+- [x] Did was the git bot asked me
+- [ ] done with the exercises
